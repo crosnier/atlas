@@ -2,5 +2,6 @@
   "obsidian-git",
   "emoji-shortcodes",
   "obsidian-custom-attachment-location",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "dataview"
 ]

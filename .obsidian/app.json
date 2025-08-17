@@ -13,5 +13,6 @@
     "downscalePercent": 100
   },
   "newFileLocation": "folder",
-  "newFileFolderPath": "-inbox"
+  "newFileFolderPath": "00-inbox",
+  "tabSize": 5
 }

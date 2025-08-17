@@ -26,6 +26,17 @@
         }
       ],
       "title": "job-search"
+    },
+    {
+      "type": "file",
+      "ctime": 1755465926590,
+      "path": "03-meta/vault-structure.md",
+      "title": "vault-structure"
+    },
+    {
+      "type": "folder",
+      "ctime": 1755465950132,
+      "path": "01-areas/job/job-search-01"
     }
   ]
 }

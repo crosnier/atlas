@@ -1,0 +1,105 @@
+import React from "react";
+import { Card, CardContent } from "@/components/ui/card";
+import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
+import { CheckCircle, Lightbulb, TrendingUp } from "lucide-react";
+
+export default function PortfolioPage() {
+  return (
+    <div className="p-6 grid grid-cols-1 md:grid-cols-2 gap-6">
+      {/* Header */}
+      <div className="col-span-full">
+        <h1 className="text-3xl font-bold mb-2">Bryan Crosnier – Visual Legacy Portfolio</h1>
+        <p className="text-muted-foreground text-lg">
+          Architecting systems that transform complexity into clarity. Bridging operations, strategy, and technology.
+        </p>
+      </div>
+
+      {/* Central Quest */}
+      <Card>
+        <CardContent className="p-4">
+          <h2 className="text-xl font-semibold mb-2">Central Career Quest</h2>
+          <p>
+            To bridge the divide between complex systems and the people who rely on them—harmonizing user needs,
+            scalability, and integration.
+          </p>
+        </CardContent>
+      </Card>
+
+      {/* Archetype Profile */}
+      <Card>
+        <CardContent className="p-4">
+          <h2 className="text-xl font-semibold mb-2">Professional Archetype</h2>
+          <p className="mb-2"><strong>Name:</strong> The Adaptive Systems Architect</p>
+          <p className="mb-2">
+            <strong>Philosophy:</strong> Design with purpose, deliver with precision. I build bridges between people,
+            platforms, and processes.
+          </p>
+          <div>
+            <strong>Domains of Mastery:</strong>
+            <ul className="list-disc list-inside mt-1">
+              <li>Strategic Operations & Systems Integration</li>
+              <li>Cross-functional Change Enablement</li>
+              <li>Technical & Process Architecture Design</li>
+            </ul>
+          </div>
+        </CardContent>
+      </Card>
+
+      {/* Signature Superpowers */}
+      <Card>
+        <CardContent className="p-4">
+          <h2 className="text-xl font-semibold mb-2">Signature Superpowers</h2>
+          <div className="space-y-3">
+            <div>
+              <Badge variant="default" className="mb-1">Seamless Strategic-Technical Bridge</Badge>
+              <p>
+                Translates technical systems into operational clarity—from DevOps to strategy to adoption.
+              </p>
+            </div>
+            <div>
+              <Badge variant="default" className="mb-1">Adaptive Multi-Context Leadership</Badge>
+              <p>
+                Rapidly adapts to fill gaps and execute across disciplines; thrives in ambiguity.
+              </p>
+            </div>
+          </div>
+        </CardContent>
+      </Card>
+
+      {/* Growth Pathways */}
+      <Card>
+        <CardContent className="p-4">
+          <h2 className="text-xl font-semibold mb-2">Strategic Growth Roadmap</h2>
+          <ul className="space-y-2">
+            <li><CheckCircle className="inline w-4 h-4 mr-2" />Scale Systems Influence → Principal Architect</li>
+            <li><CheckCircle className="inline w-4 h-4 mr-2" />Own Cross-Product Delivery → Director of Transformation</li>
+            <li><CheckCircle className="inline w-4 h-4 mr-2" />Innovate Frameworks → Internal Platforms or New Ventures</li>
+          </ul>
+        </CardContent>
+      </Card>
+
+      {/* Personal Branding */}
+      <Card className="col-span-full">
+        <CardContent className="p-4">
+          <h2 className="text-xl font-semibold mb-2">Legacy Articulation</h2>
+          <p className="italic mb-2">\            "I turn complexity into clarity—building human-centered systems that scale and evolve with purpose."
+          </p>
+          <p className="text-muted-foreground">
+            <Lightbulb className="inline w-4 h-4 mr-2" />“He’s the one you call when everything’s on fire—then somehow, it works better than before.”
+          </p>
+        </CardContent>
+      </Card>
+
+      {/* Call to Action */}
+      <Card className="col-span-full">
+        <CardContent className="p-4 text-center">
+          <h2 className="text-xl font-semibold mb-4">Ready to Prototype What’s Next?</h2>
+          <Button variant="default" className="mr-2">Systemic Influence</Button>
+          <Button variant="secondary" className="mr-2">Program Leadership</Button>
+          <Button variant="ghost">Framework Innovation</Button>
+        </CardContent>
+      </Card>
+    </div>
+  );
+}
