@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "eb3f02057631fe00",
+        "id": "a6dd78cd3347f45d",
         "type": "tabs",
         "children": [
           {
-            "id": "2cb667f2f736c305",
+            "id": "b8d333c045e4f90b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dashboard.md",
+                "file": "01-areas/job/overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dashboard"
-            }
-          },
-          {
-            "id": "dc27704c7fbf6c10",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "57b0d41535cef1a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-inbox/ai-llm-dashboard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ai-llm-dashboard"
+              "title": "overview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pkm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6297abd2925271cf",
@@ -114,12 +88,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01-areas/job/overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of overview"
             }
           }
         ]
@@ -225,8 +200,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc27704c7fbf6c10",
+  "active": "b8d333c045e4f90b",
   "lastOpenFiles": [
+    "01-areas/job/archive",
+    "01-areas/job/templates",
+    "01-areas/job/logs",
+    "01-areas/job/job-search-01",
+    "01-areas/job/resumes",
+    "01-areas/job/overview.md",
+    "01-areas/job/index.md",
+    "01-areas/life/notes",
+    "01-areas/life/finances",
+    "01-areas/life/health",
+    "01-areas/life/logs",
+    "01-areas/life/relationships",
+    "01-areas/life/overview.md",
+    "01-areas/life/index.md",
+    "01-areas/suppliment-manager-app",
     "-inbox/transcript.md",
     "dashboard.md",
     "-inbox/Untitled.md",
@@ -252,26 +242,11 @@
     "-inbox/go pro and accessories research.md",
     "-inbox/ai-system-prompt-pixelated-passion.md",
     "-inbox/ai-llm-uncensored-info.md",
-    "life/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide.md",
-    "-inbox/ai-stable-diffusion-info.md",
     "-assets/ai-stable-diffusion-info-2025-08-13 3.png",
     "-assets/ai-stable-diffusion-info-2025-08-13 2.png",
     "-assets/ai-stable-diffusion-info-2025-08-13 1.png",
-    "-inbox/-assets",
     "life/-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-12 19.png",
     "life/-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-12 18.png",
-    "life/-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-12 17.png",
-    "life/-assets",
-    "-inbox/ai-prompt-task-dustin-creepy-video.md",
-    "-inbox/ai-map-of-github-understanding-llms.md",
-    "-inbox/ai-llm-options-m4-macbook-air.md",
-    "learn/ai/-assets",
-    "learn/ai",
-    "learn/untitled folder",
-    "homelab/ai",
-    "homelab/untitled folder",
-    "homelab",
-    "untitled folder",
-    "reference"
+    "life/-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-12 17.png"
   ]
 }
