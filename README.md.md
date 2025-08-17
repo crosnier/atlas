@@ -22,9 +22,10 @@ Organizational principles, naming conventions, tagging systems, and usage workfl
 
 ```
 04-meta/vault-structure.md
-04-meta/tagging-strategy.md
 04-meta/workflow-guides/
 ```
+
+[vault-structure](03-meta/vault-structure.md)
 
 ---
 
