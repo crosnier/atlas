@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a6dd78cd3347f45d",
+        "id": "0fbce73484d6befd",
         "type": "tabs",
         "children": [
           {
-            "id": "b8d333c045e4f90b",
+            "id": "13b6f2128750fb10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-areas/job/overview.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "overview"
+              "title": "New tab"
             }
           }
         ]
@@ -200,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8d333c045e4f90b",
+  "active": "9ba66254c6f0c468",
   "lastOpenFiles": [
     "01-areas/job/archive",
     "01-areas/job/templates",
