@@ -25,14 +25,10 @@
             "id": "dc27704c7fbf6c10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-inbox/pkm-vault-file-organization.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "pkm-vault-file-organization"
+              "title": "New tab"
             }
           },
           {
@@ -118,13 +114,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-inbox/pkm-vault-file-organization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pkm-vault-file-organization"
+              "title": "Outline"
             }
           }
         ]
