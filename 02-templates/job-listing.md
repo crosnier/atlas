@@ -54,13 +54,13 @@ _Paste or summarize the job description into the code block for easy copy._
 ## frontmatter notes
 
 > job_status values: 
->   00-draft
->   01-queued
->   02-applied
->   03-interviews
->   04-discarded
->   05-rejected
->   99-offer
+>   draft
+>   queued
+>   applied
+>   interviews
+>   discarded
+>   rejected
+>   offer
 
 > remote_status values:
 >   onsite
