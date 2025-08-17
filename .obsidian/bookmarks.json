@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1755033577818,
+      "path": "dashboard.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1755033550695,
+      "path": "-inbox/organizing-tasks.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1755033562428,
+      "path": "-inbox/pkm-vault-file-organization.md"
+    },
+    {
+      "type": "group",
+      "ctime": 1755033584060,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1755033571093,
+          "path": "job/watchlists.md"
+        }
+      ],
+      "title": "job-search"
+    }
+  ]
+}

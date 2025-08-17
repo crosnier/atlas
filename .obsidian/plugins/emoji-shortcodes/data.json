@@ -1,0 +1,25 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":question:",
+    ":warning:",
+    ":information_source:",
+    ":moneybag:",
+    ":heavy_dollar_sign:",
+    ":exclamation:",
+    ":clipboard:",
+    ":new:",
+    ":movie_camera:",
+    ":artificial_satellite:",
+    ":bomb:",
+    ":pill:",
+    ":factory:",
+    ":books:",
+    ":chess_pawn:",
+    ":diamond_shape_with_a_dot_inside:",
+    ":deciduous_tree:"
+  ]
+}

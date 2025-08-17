@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "91e64aadf1f73390",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb3f02057631fe00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cb667f2f736c305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dashboard"
+            }
+          },
+          {
+            "id": "dc27704c7fbf6c10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-inbox/pkm-vault-file-organization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pkm-vault-file-organization"
+            }
+          },
+          {
+            "id": "57b0d41535cef1a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-inbox/ai-llm-dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ai-llm-dashboard"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8833985f8ce2a452",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec50d43d22ab02ac",
+        "type": "tabs",
+        "dimension": 60.93640810621943,
+        "children": [
+          {
+            "id": "9ba66254c6f0c468",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8a1175d7e7e0ba9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pkm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed2c1b776d9ea54e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6297abd2925271cf",
+        "type": "tabs",
+        "dimension": 39.063591893780576,
+        "children": [
+          {
+            "id": "9d11cef5f36d33dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "-inbox/pkm-vault-file-organization.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of pkm-vault-file-organization"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "68551c4f9323fdd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "486950224935a795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19f385a56fcde0ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "life/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for my-zodiac-profile-taurus-rooster-compatibility-and-match-guide"
+            }
+          },
+          {
+            "id": "e231acac36eea795",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "life/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from my-zodiac-profile-taurus-rooster-compatibility-and-match-guide"
+            }
+          },
+          {
+            "id": "330a3284a7a08740",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd4def992580ad25",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "203423cb057f9486",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "dc27704c7fbf6c10",
+  "lastOpenFiles": [
+    "-inbox/transcript.md",
+    "dashboard.md",
+    "-inbox/Untitled.md",
+    "-inbox/ai-llm-dashboard.md",
+    "-inbox/minecraft-survival-strategy-guide.md",
+    "-inbox/ai-ats-reference.md",
+    "-assets/ai-ats-reference-2025-08-14.png",
+    "-assets/ai-map-of-github-understanding-llms-2025-08-12.png",
+    "-inbox/ai-content-pixelated-passion.md",
+    "-assets/ai-stable-diffusion-info-2025-08-13.png",
+    "-inbox/rd2-online-moneyloop-bayou-nwa.md",
+    "life/jan chantry health profile - supplement regimen analysis.md",
+    "-inbox/test blood test report.md",
+    "learn/microservices learning plan.md",
+    "tactfully-offensive/product-ideas.md",
+    "-inbox/biota land to buy.md",
+    "-assets/biota land to buy-2025-08-14.png",
+    "job/watchlists.md",
+    "-inbox/gpt5 model system details.md",
+    "learn/ai/ai-learning-plan.md",
+    "-inbox/movie-lists-2025-08.md",
+    "-inbox/llm-prompt-library-user-guide.md",
+    "-inbox/go pro and accessories research.md",
+    "-inbox/ai-system-prompt-pixelated-passion.md",
+    "-inbox/ai-llm-uncensored-info.md",
+    "life/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide.md",
+    "-inbox/ai-stable-diffusion-info.md",
+    "-assets/ai-stable-diffusion-info-2025-08-13 3.png",
+    "-assets/ai-stable-diffusion-info-2025-08-13 2.png",
+    "-assets/ai-stable-diffusion-info-2025-08-13 1.png",
+    "-inbox/-assets",
+    "life/-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-12 19.png",
+    "life/-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-12 18.png",
+    "life/-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-12 17.png",
+    "life/-assets",
+    "-inbox/ai-prompt-task-dustin-creepy-video.md",
+    "-inbox/ai-map-of-github-understanding-llms.md",
+    "-inbox/ai-llm-options-m4-macbook-air.md",
+    "learn/ai/-assets",
+    "learn/ai",
+    "learn/untitled folder",
+    "homelab/ai",
+    "homelab/untitled folder",
+    "homelab",
+    "untitled folder",
+    "reference"
+  ]
+}
