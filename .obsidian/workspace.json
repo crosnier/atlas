@@ -84,13 +84,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-areas/job/overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of overview"
+              "title": "Outline"
             }
           }
         ]
@@ -196,14 +195,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ba66254c6f0c468",
+  "active": "203423cb057f9486",
   "lastOpenFiles": [
+    "01-areas/job/overview.md",
     "01-areas/job/archive",
     "01-areas/job/templates",
     "01-areas/job/logs",
     "01-areas/job/job-search-01",
     "01-areas/job/resumes",
-    "01-areas/job/overview.md",
     "01-areas/job/index.md",
     "01-areas/life/notes",
     "01-areas/life/finances",
@@ -212,7 +211,6 @@
     "01-areas/life/relationships",
     "01-areas/life/overview.md",
     "01-areas/life/index.md",
-    "01-areas/suppliment-manager-app",
     "-inbox/transcript.md",
     "dashboard.md",
     "-inbox/Untitled.md",
