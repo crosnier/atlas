@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "42b150cabbaea327",
+        "id": "e09f8e70af8b4a28",
         "type": "tabs",
         "children": [
           {
-            "id": "eef0b30582017cc3",
+            "id": "2e3688c0f37db329",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Enhancement",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,13 +84,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           }
         ]
@@ -196,8 +195,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ba66254c6f0c468",
+  "active": "2e3688c0f37db329",
   "lastOpenFiles": [
+    "01-areas/techy/ai-llm/ai-llm-dashboard.md",
+    "01-areas/techy/ai-llm/prompt-library/user",
+    "01-areas/techy/ai-llm/prompt-library/system",
+    "01-areas/techy/ai-llm/prompt-library/roleplay",
+    "01-areas/techy/ai-llm/prompt-library/reasoning",
+    "01-areas/techy/ai-llm/prompt-library/multimodal",
+    "01-areas/techy/ai-llm/prompt-library/memory",
+    "01-areas/techy/ai-llm/prompt-library/instruction",
+    "01-areas/techy/ai-llm/prompt-library/function",
+    "01-areas/techy/ai-llm/prompt-library/formatting",
+    "01-areas/techy/ai-llm/prompt-library/context",
+    "01-areas/techy/ai-llm/prompt-library/ai-llm-dashboard.md",
+    "01-areas/techy/prompt-library/ai-llm-dashboard.md",
+    "00-inbox/ai-llm-dashboard.md",
+    "01-areas/job/networking/@melissa-meier.md",
+    "01-areas/job/notes/job-search-pipeline.md",
+    "01-areas/job/notes/job-search-networking-project.md",
     "Untitled.canvas",
     "00-inbox/ai-llm-dynamic-perplexity-job-search.md",
     "03-meta/vault-structure.md",
@@ -206,8 +222,6 @@
     "01-areas/job/overview.md",
     "01-areas/job/index.md",
     "02-templates/job-listing.md",
-    "01-areas/job/job-search-01/jobs",
-    "01-areas/job/job-search-01/untitled folder",
     "01-areas/job/notes/operations-strategist-career-path.md",
     "-assets/operations-strategist-career-path-2025-08-17 1.png",
     "-assets/operations-strategist-career-path-2025-08-17.png",
@@ -227,23 +241,9 @@
     "01-areas/life/relationships/@ginger-collins.md",
     "01-areas/job/networking/@mike-wierzbinski.md",
     "01-areas/job/networking/networking-index.md",
-    "01-areas/job/networking/@melissa-meier.md",
-    "01-areas/job/networking/@jeff-gould.md",
-    "01-areas/job/networking",
-    "01-areas/job/job-search-01/research/nashville-tech-report.md",
-    "01-areas/job/job-search-01/research",
-    "01-areas/learn/certifications.md",
-    "01-areas/life/index.md",
-    "02-templates/job-weekly-journal.md",
     "-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-17 16.png",
     "-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-17 15.png",
     "-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-17 14.png",
-    "-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-17 13.png",
-    "01-areas/learn/salesforce",
-    "01-areas/learn/ai",
-    "01-areas/job/notes",
-    "01-areas/job/untitled folder",
-    "01-areas/homelab/ai",
-    "-assets"
+    "-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-17 13.png"
   ]
 }

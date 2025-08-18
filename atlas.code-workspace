@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		// --- Paste Image Extension Worksapce Override --- 
+  		"pasteImage.path": "${projectRoot}/-assets",
+  		"pasteImage.imageNameFormat": "${currentFileNameWithoutExt}-${currentTime}",
+  		"pasteImage.insertPattern": "![${imageFileName}](${imageFilePath})",
+  		"pasteImage.forceUnixStyleSeparator": true
+	}
+}
