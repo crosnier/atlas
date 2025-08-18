@@ -4,7 +4,7 @@ This prompt guides the LLM to perform a job search against LinkedIn and Indeed, 
 
 > Notes:
 >   1. Assumes LLM has access to open internet
->   2. does not (yet) format the output in any particular way. #Enhancement
+>   2. does not (yet) format the output in any particular way. 
 
 ---
 

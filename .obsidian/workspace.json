@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eec9a7106b6e3c9a",
+        "id": "42b150cabbaea327",
         "type": "tabs",
         "children": [
           {
-            "id": "63000b84532da638",
+            "id": "eef0b30582017cc3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,7 +29,7 @@
       {
         "id": "ec50d43d22ab02ac",
         "type": "tabs",
-        "dimension": 60.93640810621943,
+        "dimension": 71.24087591240877,
         "children": [
           {
             "id": "9ba66254c6f0c468",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Enhancement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
       {
         "id": "6297abd2925271cf",
         "type": "tabs",
-        "dimension": 39.063591893780576,
+        "dimension": 28.759124087591243,
         "children": [
           {
             "id": "9d11cef5f36d33dc",
@@ -84,12 +84,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -179,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,8 +196,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63000b84532da638",
+  "active": "9ba66254c6f0c468",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "00-inbox/ai-llm-dynamic-perplexity-job-search.md",
+    "03-meta/vault-structure.md",
     "01-areas/job/job-search-01/jobs/test job.md",
     "01-areas/job/job-search-01/index.md",
     "01-areas/job/overview.md",
@@ -231,9 +235,6 @@
     "01-areas/learn/certifications.md",
     "01-areas/life/index.md",
     "02-templates/job-weekly-journal.md",
-    "02-templates/job-position-note.md",
-    "02-templates/job-networking-note.md",
-    "01-areas/life/notes/article-three-reasons-to-buy-a-home-this-summer.md",
     "-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-17 16.png",
     "-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-17 15.png",
     "-assets/my-zodiac-profile-taurus-rooster-compatibility-and-match-guide-2025-08-17 14.png",
