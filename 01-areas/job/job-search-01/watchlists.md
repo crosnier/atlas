@@ -28,6 +28,5 @@ companies to monitor for possible job listings
 ## Job Listings
 preconfigured searches for certain jobs or responsibilities
 
-| title | url | notes |
-| ----- | --- | ----- |
-|       |     |       |
+title | url | notes |
+

@@ -1,9 +1,11 @@
 # AI LLM Dashboard
 
+This dashboard serves as a centralized reference point for all AI LLM-related workflows. It covers prompt engineering, model selection, self-hosted solutions, ongoing research, and tool integrations. Use this page to organize, compare, and evolve your approaches to leveraging large language models across development, writing, and automation tasks.  
+
 - [AI LLM Dashboard](#ai-llm-dashboard)
   - [Types of Prompts](#types-of-prompts)
     - [Structural](#structural)
-    - [Functiona](#functiona)
+    - [Functional](#functional)
     - [Reasoning](#reasoning)
     - [Multimodal](#multimodal)
     - [Definitions](#definitions)
@@ -11,14 +13,10 @@
   - [My Model Selections](#my-model-selections)
     - [Code Development](#code-development)
     - [Resume Generation \& Text-Based Tasks](#resume-generation--text-based-tasks)
-  - [Prompt Library Build Plan](#prompt-library-build-plan)
   - [Self-Hosted Model Notes](#self-hosted-model-notes)
   - [Research Archive](#research-archive)
   - [Tool Integrations \& Workflows](#tool-integrations--workflows)
-  - [Related Files to Integrate](#related-files-to-integrate)
 
-> **Page-Level Summary:**  
-This dashboard serves as a centralized reference point for all AI LLM-related workflows. It covers prompt engineering, model selection, self-hosted solutions, ongoing research, and tool integrations. Use this page to organize, compare, and evolve your approaches to leveraging large language models across development, writing, and automation tasks.
 
 ---
 ## Types of Prompts
@@ -29,7 +27,7 @@ This dashboard serves as a centralized reference point for all AI LLM-related wo
 - user (user)
 - context injection (context)
 
-### Functiona
+### Functional
 - function-calling (function)
 - roleplay / simulation (roleplay)
 - chat formatting / role separators (formatting)
@@ -44,23 +42,30 @@ This dashboard serves as a centralized reference point for all AI LLM-related wo
 ---
 ### Definitions
 
-system - Controls model behavior with overarching instructions (e.g., "system: You are a helpful assistant.")  
-instruction - One-shot user tasks or instructions (e.g., "Write a summary of this article.")  
-user - Task-oriented user input (e.g., "How do I implement a binary search?")  
-context injection - Embedding files, messages, or data into context (e.g., including "terms_of_service.txt" content)  
-function-calling - Tool usage or code execution prompts (e.g., calling `getWeather(location)`)  
-roleplay - Simulations or role-based interactions (e.g., "You are a customer support agent.")  
-chat formatting - Formatting chat messages or role separators (e.g., "[User]: Hello\n[Assistant]: Hi, how can I help?")  
-chain-of-thought - Reasoning scaffolds to guide model logic (e.g., "Step 1: Identify variables. Step 2: Solve equation.")  
-memory manipulation - Managing or altering model memory state (e.g., "Remember user's preferred language.")  
-multimodal - Input involving images, audio, or other media (e.g., uploading a photo for description)  
+- system - Controls model behavior with overarching instructions (e.g., "system: You are a helpful assistant.")  
+- instruction - One-shot user tasks or instructions (e.g., "Write a summary of this article.")  
+- user - Task-oriented user input (e.g., "How do I implement a binary search?")  
+- context injection - Embedding files, messages, or data into context (e.g., including "terms_of_service.txt" content)  
+
+- function-calling - Tool usage or code execution prompts (e.g., calling `getWeather(location)`)  
+- roleplay - Simulations or role-based interactions (e.g., "You are a customer support agent.")  
+- chat formatting - Formatting chat messages or role separators (e.g., "[User]: Hello\n[Assistant]: Hi, how can I help?")  
+
+- chain-of-thought - Reasoning scaffolds to guide model logic (e.g., "Step 1: Identify variables. Step 2: Solve equation.")  
+- memory manipulation - Managing or altering model memory state (e.g., "Remember user's preferred language.")  
+
+- multimodal - Input involving images, audio, or other media (e.g., uploading a photo for description)  
 
 ---
 ## Prompt Library
-...how they're stored in file directories...
-markdown file for each prompt, organized into folders for each prompt type
 
-{insert simple list of prompt types here}
+This library contains all prompt assets used for instruction, generation, automation, and agent behaviors. Each prompt is stored as a separate Markdown file with YAML frontmatter and organized into folders by prompt type (e.g. system, instruction, reasoning). A dedicated `-blueprints/` folder contains complete multi-prompt workflows for specific use cases.
+
+**Principles:**
+- Use standard Markdown format with `![](./-assets/image.png)` for all attachments
+- Store images in a local `-assets/` folder adjacent to each prompt
+- Avoid Obsidian-style wikilinks for compatibility with external tools
+- Favor self-contained folders for easy backup, version control, and reuse
 
 **file organization**
 *includes sample files for reference*
@@ -144,33 +149,27 @@ prompt-library/
 
 ---
 
-## Prompt Library Build Plan
-- Create folder for each prompt type
-- Store each prompt as a Markdown file with YAML frontmatter
-- Track usage examples and output quality
-- Version control the prompt evolution
-
 ## Self-Hosted Model Notes
+📁 Stored in: /ai-llm/notes
 - Ollama / LM Studio / LocalAI comparisons
 - Supported models and VRAM benchmarks
 - Custom system prompts and fine-tuning
 
 ## Research Archive
+📁 Stored in: /ai-llm/research
 - AI trends and model benchmarks
 - Prompt engineering discoveries
 - API usage examples
 
 ## Tool Integrations & Workflows
+📁 Stored in: /ai-llm/notes
 - How each model fits into daily workflows
 - API calls and automation logic
 - Terminal, browser, and editor integrations
 
-## Related Files to Integrate
-- List all `ai-` prefixed files for ingestion and categorization
-
 <!--
 ✅ Next Steps:
-- Build out prompt library using frontmatter format
+- Build out prompt library frontmatter format
 - Parse and merge all `ai-*.md` files into logical sections of this dashboard
 - Link related tools like token counters, LLM customization, instruction guides
 - Consider tagging files by task type: resume, research, coding, etc.

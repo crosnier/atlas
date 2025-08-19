@@ -8,8 +8,6 @@ Allow user to quickly copy/paste content from a job posting for GPT to perform a
 
 ## Prompt Configuration
 
-
-
 ORIGINAL
 ```
 Jost Listing Comparative Analysis. 

@@ -6,9 +6,10 @@
 	],
 	"settings": {
 		// --- Paste Image Extension Worksapce Override --- 
-  		"pasteImage.path": "${projectRoot}/-assets",
-  		"pasteImage.imageNameFormat": "${currentFileNameWithoutExt}-${currentTime}",
-  		"pasteImage.insertPattern": "![${imageFileName}](${imageFilePath})",
-  		"pasteImage.forceUnixStyleSeparator": true
+		// commented out as storing files next to their notes is easier to manage
+  		// "pasteImage.path": "${projectRoot}/-assets",
+  		// "pasteImage.defaultName": "${currentFileNameWithoutExt}-YYYY-MM-DD-HHmm-ss",
+  		// "pasteImage.insertPattern": "![${imageFileName}](${imageFilePath})",
+  		// "pasteImage.forceUnixStyleSeparator": true
 	}
 }
