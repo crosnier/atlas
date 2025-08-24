@@ -1,16 +1,3 @@
----
-contact_name: Jeff Gould
-platform:
-  - linkedin
-  - email
-  - text
-status:
-  - replied
-date_initiated: ""
-follow_up: ""
-date_closed: 
-tags:
----
 # 🤝 Outreach Log: ContactName
 
 Track and document interactions with professional contacts, referrals, or recruiters.

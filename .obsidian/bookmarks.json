@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "type": "group",
+      "ctime": 1755635950135,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1755635935076,
+          "path": "01-areas/techy/ai-llm/prompt-library/roleplay/ai-role-prompt-generator-meta.md"
+        }
+      ],
+      "title": "ai prompts"
+    },
+    {
       "type": "file",
       "ctime": 1755033577818,
       "path": "dashboard.md"
@@ -20,6 +32,11 @@
       "ctime": 1755033584060,
       "items": [
         {
+          "type": "folder",
+          "ctime": 1755465950132,
+          "path": "01-areas/job/job-search-01"
+        },
+        {
           "type": "file",
           "ctime": 1755033571093,
           "path": "job/watchlists.md"
@@ -29,19 +46,14 @@
     },
     {
       "type": "file",
-      "ctime": 1755465926590,
-      "path": "03-meta/vault-structure.md",
-      "title": "vault-structure"
-    },
-    {
-      "type": "folder",
-      "ctime": 1755465950132,
-      "path": "01-areas/job/job-search-01"
+      "ctime": 1755545897384,
+      "path": "00-inbox/ai-llm-dashboard.md"
     },
     {
       "type": "file",
-      "ctime": 1755545897384,
-      "path": "00-inbox/ai-llm-dashboard.md"
+      "ctime": 1755465926590,
+      "path": "03-meta/vault-structure.md",
+      "title": "vault-structure"
     }
   ]
 }

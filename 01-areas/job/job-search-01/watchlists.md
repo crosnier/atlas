@@ -10,6 +10,9 @@ A collection of monitoring targets to be aware of potential job opportunities.
 
 [underdog.io | startup jobs](https://underdog.io/startup-job-board)
 
+[ezcater inc](https://job-boards.greenhouse.io/ezcaterinc)
+
+
 
 ---
 ## Companies
@@ -21,6 +24,7 @@ companies to monitor for possible job listings
 | forgeworks.ai   | [linkedin](https://www.linkedin.com/company/forgeworksai/)                                                                                                                                                                      |               |                                         |
 | spycloud        | [careers](https://spycloud.com/company/careers/)                                                                                                                                                                                | ginger        | based in Austin, occasional remote jobs |
 | barry wehmiller | [careers](https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWCareers/details/Organizational-Change-Management-Specialist_R018834?Location_Country=bc33aa3152ec42d4995f4791a106ed09&timeType=9189c0049ec01003e87e806b0d2cee6d) | ginger        |                                         |
+| trace3          | [careers](https://www.trace3.com/careers#open-positions)                                                                                                                                                                        | melissa       |                                         |
 
 
 ---

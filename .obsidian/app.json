@@ -14,5 +14,7 @@
   },
   "newFileLocation": "folder",
   "newFileFolderPath": "00-inbox",
-  "tabSize": 5
+  "tabSize": 5,
+  "livePreview": true,
+  "readableLineLength": false
 }

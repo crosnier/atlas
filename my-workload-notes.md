@@ -95,11 +95,11 @@ CroTech -- launch it!!!
 
 ---
 ### 📚**Learn**
-- [ ] P1 linkedin premium education : videos
-	- [ ] [linkedin profile](https://linkedin.zoom.us/rec/share/41qWh3MVwSg-nCvWKdFGGZAokchEwc4NpP11YNgd6bKXkjy77O5T4jcMoSx89s49.NqPhuck6ki7WNeZS)
-	- [ ] [job searching essentials](https://linkedin.zoom.us/rec/play/Oumxd6mbLDYryX49f4KH5M6xhMXNh_ExsxXHpmdKPrD5vJex8Lmu5ag2f-H8votHwGwTP8KWoQ5rd7Qo.vEZR8Pj-SzJ5-aGy?autoplay=true&startTime=1745858417000)
-	- [ ] [elevate career](https://linkedin.zoom.us/rec/play/8zxBb65OfsLF0NeY3qMV6kHtO7huC04o6_HyaZLNDpYcWGqbsfESUrIf-9zsf-qvdliGLl8ZIh76TmNu.Pg_idndofAMwu5AE?autoplay=true&startTime=1746038751000)
-	- [ ] [grow your business](https://linkedin.zoom.us/rec/play/kvnR8yu4cxIljU7d1E-NqO6aG-rPLH7PO9sOb9QpAvYnJTh9sBgcTYRnPhwpK2TkraVmNGsOTWp_AvHK.eXh7TSmfBzeyf5U3?autoplay=true&startTime=1745861042000)
+- [ ] P4 linkedin premium education : videos
+	- [linkedin profile](https://linkedin.zoom.us/rec/share/41qWh3MVwSg-nCvWKdFGGZAokchEwc4NpP11YNgd6bKXkjy77O5T4jcMoSx89s49.NqPhuck6ki7WNeZS)
+	- [job searching essentials](https://linkedin.zoom.us/rec/play/Oumxd6mbLDYryX49f4KH5M6xhMXNh_ExsxXHpmdKPrD5vJex8Lmu5ag2f-H8votHwGwTP8KWoQ5rd7Qo.vEZR8Pj-SzJ5-aGy?autoplay=true&startTime=1745858417000)
+	- [elevate career](https://linkedin.zoom.us/rec/play/8zxBb65OfsLF0NeY3qMV6kHtO7huC04o6_HyaZLNDpYcWGqbsfESUrIf-9zsf-qvdliGLl8ZIh76TmNu.Pg_idndofAMwu5AE?autoplay=true&startTime=1746038751000)
+	- [grow your business](https://linkedin.zoom.us/rec/play/kvnR8yu4cxIljU7d1E-NqO6aG-rPLH7PO9sOb9QpAvYnJTh9sBgcTYRnPhwpK2TkraVmNGsOTWp_AvHK.eXh7TSmfBzeyf5U3?autoplay=true&startTime=1745861042000)
 - [ ] P2 salesforce admin cert
 	- [ ] establish SF admin cert project note -- plan and track
 	- [ ] complete SF Admin trailhead

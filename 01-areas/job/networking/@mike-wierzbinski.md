@@ -1,19 +1,3 @@
----
-contact_name: Mike Wierzbinski
-platform:
-  - text
-  - email
-  - linkedin
-outreach_status:
-  - waiting
-  - replied
-  - scheduled
-  - closed
-date_initiated: ""
-follow_up: ""
-date_closed: 
-tags:
----
 # 🤝 Outreach Log: Mike Wierzbinski 'Wierz'
 
 Track and document interactions with professional contacts, referrals, or recruiters.

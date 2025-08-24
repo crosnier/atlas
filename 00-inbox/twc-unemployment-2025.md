@@ -38,7 +38,7 @@ job search activity (adhoc) requests : my log must be converted to twc's form wh
 'interstate claim' = where an individual worked for the full duration of employment and was laid off while living in one state but now lives in another.  
 
 ****Phone Numbers:**
-- tele-center (customer service): call
+- tele-center (customer service): 800-939-6631
 - tele-serv (automated): 800-558-8321
 - benefit overpayment collections: 512-936-3338**
 
