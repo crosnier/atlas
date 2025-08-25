@@ -1,0 +1,3 @@
+## Understanding LLMs via Metaphors
+
+Slide notes and analogies for cognitive modeling...

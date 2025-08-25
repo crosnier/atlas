@@ -1,0 +1,3 @@
+## Video Generation Prompt - Vincent Price
+
+Prompt for cinematic video generation...

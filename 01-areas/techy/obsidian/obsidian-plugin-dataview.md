@@ -120,3 +120,5 @@ where file.mtime >= date(today) - dur(7 days)
 ---
 
 Generated for Bryan’s Vault 🧠
+
+---

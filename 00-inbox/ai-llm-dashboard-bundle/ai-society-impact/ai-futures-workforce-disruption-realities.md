@@ -1,0 +1,3 @@
+## AI Futures & Workforce Disruption
+
+Summary and counterpoints from Altman vs others...

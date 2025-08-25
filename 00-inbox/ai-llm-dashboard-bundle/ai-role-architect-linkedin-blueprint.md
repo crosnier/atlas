@@ -1,0 +1,3 @@
+## LinkedIn Legacy Architect Protocol
+
+Massive prompt to deconstruct and map career...

@@ -1,0 +1,3 @@
+## Job Compatibility Prompt
+
+Analyze job descriptions and assign compatibility tags...

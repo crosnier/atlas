@@ -1,0 +1,3 @@
+## Local LLM Options for M4 MacBook Air
+
+Model suggestions and setup comparison...

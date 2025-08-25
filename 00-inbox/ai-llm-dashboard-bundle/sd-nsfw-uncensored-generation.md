@@ -1,0 +1,3 @@
+## NSFW Image Generation Prompt
+
+Uncensored prompt + system override for Stable Diffusion...

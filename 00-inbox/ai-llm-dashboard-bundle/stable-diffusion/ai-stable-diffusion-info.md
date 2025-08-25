@@ -1,0 +1,3 @@
+## Stable Diffusion Setup and Prompts
+
+Local install, tips, realism config...

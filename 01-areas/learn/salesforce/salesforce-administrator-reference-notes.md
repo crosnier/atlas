@@ -83,7 +83,12 @@ User
 └── Sharing Rules   (Automates record sharing beyond roles/org defaults)
 ```
 
+---
 
+## Salesforce Admin Exam Scoring
+
+
+![](../../../-assets/salesforce-administrator-reference-notes-2025-08-25-1258.pdf)
 
 
 

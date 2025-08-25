@@ -1,0 +1,3 @@
+## Dynamic Job Search Prompt
+
+Prompt that searches jobs based on criteria with LLM access...
