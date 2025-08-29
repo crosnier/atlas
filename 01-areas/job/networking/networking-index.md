@@ -9,10 +9,8 @@ My collection of people, groups, and communities that can provide direct or indi
 [Communities](#Communities): Broader gatherings of like-minded individuals sharing interests, values, or expertise that can foster indirect career connections.
 
 
-
 ---
 ## People
-
 
 
 ---
@@ -23,15 +21,10 @@ My collection of people, groups, and communities that can provide direct or indi
 - recommended by Ginger $today
 
 
-
 ---
 ## Communities
 
 Joy Church - Mt Juliet
 
 
-
-
-
-
-   
+---

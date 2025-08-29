@@ -1,47 +1,40 @@
 ---
-company: 
-title: 
-remote_status: 
-salary_range:  
-link: 
-
 job_status:
-resume_used: 
-compatibility_score: 
-
-created: 
-updated: 
-
-applied_on: 
+compatibility_score:
+link:
+company:
+title:
+salary_range:
+remote_status:
+resume_used:
+created:
+updated:
+applied_on:
+interview:
 ---
-# 📓 Job Notes
+# 📓 Job Listing : `=replace(this.file.name, "-", " ")`
+
 
 
 ---
-
 ## ✅ My Fit
 
-*Salary reaction*
+*Salary reaction*: 
 
+*How my skills match the requirements*: 
 
-*How my skills match the requirements*
-
-
-*Challenge areas* 
+*Challenge areas* : 
 
 ---
-
 ## 🧠 AI Analysis Notes
 _Add summaries, alignment notes, or GPT evaluations here._
 
 
 ---
-
 ## ATS Simulator Score
 
 
 ---
-
 ## 🔍 Job Description
 _Paste or summarize the job description into the code block for easy copy._
 ```markdown
@@ -50,20 +43,6 @@ _Paste or summarize the job description into the code block for easy copy._
 
 
 ---
-
-## frontmatter notes
-
-> job_status values: 
->   draft
->   queued
->   applied
->   interviews
->   discarded
->   rejected
->   offer
-
-> remote_status values:
->   onsite
->   hybrid
->   remote
->   unk
+*-frontmatter notes-*
+> *job_status values: draft, queued, applied, discarded, rejected, offer*
+> *remote_status values: onsite, hybrid, remote, unk*

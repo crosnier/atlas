@@ -3,14 +3,28 @@ mom's health profile
 Origins Healthcare Patient Portal https://mpnlogin.com/myportal/login
 *access and download ALL patient records and test results*
 
-## Source Materials
 
+## prompt
+```markdown
+
+```
+
+## Source Materials
 
 BIGGEST ASK: continue mold protocol? 
 ```text
 My biggest ask at this point is, if you think it’s a good idea to stop my mold protocol for the next eight weeks while I am working on killing the Klebsiella bacteria. 
 
 I have to take the mold protocol for two more straight months before re testing for mold in my body, which is why I’m asking.
+```
+
+2025-08-28 email
+```text
+I've already been on the new protocol for 5 weeks ($ 1536.21 so far) and I really need to know what to do next.  The original GPT protocol said to change products after  two weeks but Osborne protocol said to do this for ten weeks on his recommended protocol which included the herbal remedies.  I've already sent that to you for your reference as directed. .  
+
+Alternating makes more sense to me since parasites live and die in cycles plus bacteria may become resistant after prolonged use. I've been using Uvi Ursi and Kidney tonic since January, so that's 8 months and it still isn't out of my body yet. Please help me if you can.  Its time to order more meds and I can't bring myself to spend that much money again if it's not the right thing to do. Especially after the $1000. expenditure for brakes and dehumidifier! 
+
+I also have never heard back about obtaining Ivermectin for me.  I was supposed to be on it this whole 5 weeks for parasites and bacterial infection.  Taunia had mentioned by text over a month ago that if I needed her to help obtain it, to let her know.  Do you want me to ask for her help on getting the Ivermectin in Tennessee?  I wish it was available without prescription here but it isn't.
 ```
 
 2025-08-14 email

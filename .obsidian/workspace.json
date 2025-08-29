@@ -4,17 +4,85 @@
     "type": "split",
     "children": [
       {
-        "id": "ec40f74ad73e927d",
+        "id": "c69c1fe81dffc407",
         "type": "tabs",
+        "dimension": 47.28915662650602,
         "children": [
           {
-            "id": "d6978c519407246e",
+            "id": "8708aafea708aa92",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-areas/job/job-search-01/watchlists.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "watchlists"
+            }
+          },
+          {
+            "id": "4fdd242fb04e6cdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-areas/job/job-search-01/titles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "titles"
+            }
+          },
+          {
+            "id": "f7251620e290b52b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-areas/job/job-search-01/research/job-sites-by-industry.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "job-sites-by-industry"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6782fbe4264bfcba",
+        "type": "tabs",
+        "dimension": 52.71084337349398,
+        "children": [
+          {
+            "id": "108f55c9b148c3b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-areas/job/job-search-01/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "4c897d578dd00168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-areas/job/job-search-01/jobs/peraton-senior-requirements-engineer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "peraton-senior-requirements-engineer"
             }
           }
         ]
@@ -29,7 +97,7 @@
       {
         "id": "ec50d43d22ab02ac",
         "type": "tabs",
-        "dimension": 58.210332103321036,
+        "dimension": 65.04217432052484,
         "children": [
           {
             "id": "9ba66254c6f0c468",
@@ -76,7 +144,7 @@
       {
         "id": "6297abd2925271cf",
         "type": "tabs",
-        "dimension": 41.789667896678964,
+        "dimension": 34.957825679475164,
         "children": [
           {
             "id": "9d11cef5f36d33dc",
@@ -84,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01-areas/job/job-search-01/watchlists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of watchlists"
             }
           }
         ]
@@ -105,6 +174,7 @@
       {
         "id": "486950224935a795",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "658db0ee898f90c1",
@@ -112,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-areas/job/tristan-crosnier-resume.md",
+                "file": "01-areas/job/job-search-01/watchlists.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +210,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of tristan-crosnier-resume"
+              "title": "Graph of watchlists"
             }
           },
           {
@@ -172,12 +242,12 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4c8de89f95a0b620",
         "type": "tabs",
+        "dimension": 31.416666666666664,
         "children": [
           {
             "id": "19f385a56fcde0ae",
@@ -185,6 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01-areas/job/job-search-01/watchlists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +265,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for watchlists"
             }
           },
           {
@@ -203,12 +274,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-areas/job/tristan-crosnier-resume.md",
+                "file": "01-areas/job/job-search-01/watchlists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from tristan-crosnier-resume"
+              "title": "Outgoing links from watchlists"
             }
           }
         ]
@@ -216,6 +287,7 @@
       {
         "id": "faafd251a95ed902",
         "type": "tabs",
+        "dimension": 35.25,
         "children": [
           {
             "id": "203423cb057f9486",
@@ -231,7 +303,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 230.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,10 +316,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6978c519407246e",
+  "active": "19f385a56fcde0ae",
   "lastOpenFiles": [
     "01-areas/job/job-search-01/index.md",
+    "01-areas/job/job-search-01/watchlists.md",
+    "01-areas/job/job-search-01/jobs/peraton-senior-requirements-engineer.md",
+    "01-areas/job/job-search-01/titles.md",
+    "01-areas/job/job-search-01/research/job-sites-by-industry.md",
     "01-areas/job/job-search-01/overview.md",
+    "01-areas/life/health/jan chantry health profile - supplement regimen analysis.md",
+    "01-areas/job/job-search-01/jobs/asurion-change-owner-manager.md",
+    "00-inbox/loki docker container configs.md",
+    "01-areas/life/health/chlorine-dioxide-bath-therapy-instructions.md",
+    "00-inbox/ezcater-senior-sales-operations-analyst.md",
+    "01-areas/job/job-search-01/job-search-process.drawio",
+    "02-templates/job-listing.md",
+    "01-areas/job/notes/job-search-pipeline.md",
+    "01-areas/job/job-search-01/search-queries/searching-indeed.md",
+    "01-areas/job/job-search-01/search-queries/searching-linkedin.md",
+    "01-areas/job/job-search-01/scripts/indeed-url-builder.sh",
+    "01-areas/job/job-search-01/scripts/linkedin-url-builder.sh",
+    "01-areas/job/job-search-01/scripts",
+    "01-areas/job/notes/job-search-networking-project.md",
+    "01-areas/job/networking/networking-index.md",
+    "01-areas/job/job-search-01/search-queries",
+    "01-areas/entertainment/marvel movies by mcu phase.md",
+    "01-areas/techy/ai-llm/prompt-library/roleplay/ai-role-prompt-generator-meta.md",
+    "00-inbox/twc-unemployment-2025.md",
     "01-areas/techy/obsidian/obsidian-plugin-dataview.md",
     "-assets/obsidian-plugin-dataview-2025-08-25-1342.png",
     "00-inbox/the future of ai.md",
@@ -264,34 +359,11 @@
     "00-inbox/ai-llm-dashboard-bundle/ai-models-nsfw/ai-llm-uncensored-info.md",
     "00-inbox/ai-llm-dashboard-bundle/stable-diffusion/ai-stable-diffusion-info.md",
     "00-inbox/ai-llm-dashboard-bundle/job-search-automation/ai-llm-dynamic-perplexity-job-search.md",
-    "00-inbox/ai-llm-dashboard-bundle/job-search-automation/ai-adhoc-job-compatibility-analysis.md",
-    "00-inbox/ai-llm-dashboard-bundle/ai-video-generation-prompts/ai-prompt-task-dustin-creepy-video.md",
-    "00-inbox/ai-llm-dashboard-bundle/ai-society-impact/ai-futures-workforce-disruption-realities.md",
-    "00-inbox/ai-llm-dashboard-bundle/ai-metaphors-learning/ai-map-of-github-understanding-llms.md",
-    "00-inbox/ai-llm-dashboard-bundle/ai-llm-customization-prompts.md",
-    "00-inbox/ai-llm-dashboard-bundle/sd-nsfw-uncensored-generation.md",
     "00-inbox/ai-llm-dashboard-bundle/stable-diffusion",
     "00-inbox/ai-llm-dashboard-bundle/job-search-automation",
     "00-inbox/ai-llm-dashboard-bundle/ai-video-generation-prompts",
-    "00-inbox/ai-llm-dashboard-bundle/ai-role-architect-linkedin-blueprint.md",
     "00-inbox/ai-llm-dashboard-bundle/ai-society-impact",
     "00-inbox/ai-llm-dashboard-bundle/ai-models-nsfw",
-    "00-inbox/ai-llm-dashboard-bundle/ai-metaphors-learning",
-    "00-inbox/ai-llm-dashboard-bundle/ai-local-llm-m4-mac-options.md",
-    "00-inbox/ai-llm-dashboard-bundle/ai-llm-roleprofile-techtutor.md",
-    "00-inbox/ai-llm-dashboard-bundle/ai-llm-dashboard.md",
-    "00-inbox/ai-llm-dashboard-bundle",
-    "00-inbox/common bash aliases.md",
-    "00-inbox/expert python developer prompt.md",
-    "01-areas/learn/salesforce/salesforce-administrator-reference-notes.md",
-    "-assets/salesforce-administrator-reference-notes-2025-08-25-1258.pdf",
-    "01-areas/learn/salesforce/salesforce-administrator-training-guide-2025.md",
-    "00-inbox/ai-instruction-drafts.md",
-    "01-areas/life/people-search.md",
-    "01-areas/life/people-search-carolyn-whiteside.md",
-    "-assets/people-search-carolyn-whiteside-2025-08-25-1252.pdf",
-    "01-areas/life/people-search-wayne-woods.md",
-    "-assets/people-search-wayne-woods-2025-08-25-1252.pdf",
     "Untitled.canvas",
     "00-inbox/gpt-architecture.canvas"
   ]
